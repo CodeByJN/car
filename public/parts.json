@@ -1,0 +1,920 @@
+[
+  {
+    "id": 1,
+    "name": "Engine Oil Filter",
+    "category": "filters",
+    "brand": "Fram",
+    "price": 8.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "PH7317"
+  },
+  {
+    "id": 2,
+    "name": "Engine Oil Filter",
+    "category": "filters",
+    "brand": "Purolator",
+    "price": 9.49,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "PL14610"
+  },
+  {
+    "id": 3,
+    "name": "Engine Oil Filter",
+    "category": "filters",
+    "brand": "Honda OEM",
+    "price": 12.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "15400-PLM-A02"
+  },
+  {
+    "id": 4,
+    "name": "Engine Air Filter",
+    "category": "filters",
+    "brand": "Fram",
+    "price": 19.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "CA8911"
+  },
+  {
+    "id": 5,
+    "name": "Engine Air Filter",
+    "category": "filters",
+    "brand": "WIX",
+    "price": 21.49,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "42564"
+  },
+  {
+    "id": 6,
+    "name": "Engine Air Filter",
+    "category": "filters",
+    "brand": "Purolator",
+    "price": 20.99,
+    "inStock": false,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "A35397"
+  },
+  {
+    "id": 7,
+    "name": "Engine Air Filter",
+    "category": "filters",
+    "brand": "Honda OEM",
+    "price": 29.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "17220-PLC-000"
+  },
+  {
+    "id": 8,
+    "name": "Cabin Air Filter",
+    "category": "filters",
+    "brand": "Fram",
+    "price": 22.99,
+    "inStock": true,
+    "location": [
+      "interior"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "CF10135"
+  },
+  {
+    "id": 9,
+    "name": "Cabin Air Filter",
+    "category": "filters",
+    "brand": "Honda OEM",
+    "price": 34.99,
+    "inStock": false,
+    "location": [
+      "interior"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "80292-S5D-A01"
+  },
+  {
+    "id": 10,
+    "name": "Spark Plug (each)",
+    "category": "ignition",
+    "brand": "NGK",
+    "price": 7.49,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "PZFR6F-11"
+  },
+  {
+    "id": 11,
+    "name": "Spark Plug (each)",
+    "category": "ignition",
+    "brand": "Denso",
+    "price": 7.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "PKJ20CR-M11"
+  },
+  {
+    "id": 12,
+    "name": "Iridium Spark Plug (each)",
+    "category": "ignition",
+    "brand": "NGK",
+    "price": 11.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ],
+    "partNumber": "ZFR6FIX-11"
+  },
+  {
+    "id": 13,
+    "name": "Spark Plug Wire Set",
+    "category": "ignition",
+    "brand": "NGK",
+    "price": 54.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Front Brake Pads",
+    "category": "brakes",
+    "brand": "Akebono",
+    "price": 54.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Front Brake Pads",
+    "category": "brakes",
+    "brand": "Bosch",
+    "price": 44.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Front Brake Pads",
+    "category": "brakes",
+    "brand": "Wagner",
+    "price": 39.99,
+    "inStock": false,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Front Brake Rotor",
+    "category": "brakes",
+    "brand": "Centric",
+    "price": 42.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Front Brake Rotor",
+    "category": "brakes",
+    "brand": "Brembo",
+    "price": 58.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Rear Brake Drum",
+    "category": "brakes",
+    "brand": "Centric",
+    "price": 49.99,
+    "inStock": true,
+    "location": [
+      "leftRearTire",
+      "rightRearTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Rear Brake Shoes",
+    "category": "brakes",
+    "brand": "Raybestos",
+    "price": 34.99,
+    "inStock": true,
+    "location": [
+      "leftRearTire",
+      "rightRearTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Front Wheel Hub Bearing",
+    "category": "brakes",
+    "brand": "Timken",
+    "price": 89.99,
+    "inStock": false,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "All-Season Tire 185/70R14",
+    "category": "tires",
+    "brand": "Michelin",
+    "price": 139.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire",
+      "leftRearTire",
+      "rightRearTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "All-Season Tire 185/70R14",
+    "category": "tires",
+    "brand": "Bridgestone",
+    "price": 119.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire",
+      "leftRearTire",
+      "rightRearTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Winter Tire 185/70R14",
+    "category": "tires",
+    "brand": "Nokian",
+    "price": 149.99,
+    "inStock": false,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire",
+      "leftRearTire",
+      "rightRearTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Front Strut Assembly",
+    "category": "suspension",
+    "brand": "KYB",
+    "price": 94.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Front Strut Assembly",
+    "category": "suspension",
+    "brand": "Monroe",
+    "price": 89.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Rear Shock Absorber",
+    "category": "suspension",
+    "brand": "KYB",
+    "price": 59.99,
+    "inStock": true,
+    "location": [
+      "leftRearTire",
+      "rightRearTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Front Sway Bar Link",
+    "category": "suspension",
+    "brand": "Moog",
+    "price": 27.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Outer Tie Rod End",
+    "category": "suspension",
+    "brand": "Moog",
+    "price": 32.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Front CV Axle",
+    "category": "suspension",
+    "brand": "GSP",
+    "price": 79.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Headlight Assembly (Left)",
+    "category": "lights",
+    "brand": "Depo",
+    "price": 89.99,
+    "inStock": true,
+    "location": [
+      "frontLeftLight"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Headlight Assembly (Right)",
+    "category": "lights",
+    "brand": "Depo",
+    "price": 89.99,
+    "inStock": false,
+    "location": [
+      "frontRightLight"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Headlight Bulb",
+    "category": "lights",
+    "brand": "Sylvania",
+    "price": 24.99,
+    "inStock": true,
+    "location": [
+      "frontLeftLight",
+      "frontRightLight"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Headlight Bulb",
+    "category": "lights",
+    "brand": "Philips",
+    "price": 22.99,
+    "inStock": true,
+    "location": [
+      "frontLeftLight",
+      "frontRightLight"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Tail Light Assembly (Left)",
+    "category": "lights",
+    "brand": "TYC",
+    "price": 74.99,
+    "inStock": true,
+    "location": [
+      "rearLeftLight"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Tail Light Assembly (Right)",
+    "category": "lights",
+    "brand": "TYC",
+    "price": 74.99,
+    "inStock": true,
+    "location": [
+      "rearRightLight"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Wiper Blade",
+    "category": "wipers",
+    "brand": "Bosch",
+    "price": 19.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Wiper Blade",
+    "category": "wipers",
+    "brand": "Rain-X",
+    "price": 17.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Battery Group 51R",
+    "category": "electrical",
+    "brand": "MotoMaster",
+    "price": 149.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Battery Group 51R",
+    "category": "electrical",
+    "brand": "Interstate",
+    "price": 169.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Alternator (Remanufactured)",
+    "category": "electrical",
+    "brand": "Denso",
+    "price": 189.99,
+    "inStock": false,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Starter Motor (Remanufactured)",
+    "category": "electrical",
+    "brand": "Denso",
+    "price": 149.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Upstream Oxygen Sensor",
+    "category": "exhaust",
+    "brand": "Denso",
+    "price": 89.99,
+    "inStock": true,
+    "location": [
+      "underbody"
+    ],
+    "compatibleCars": [
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Downstream Oxygen Sensor",
+    "category": "exhaust",
+    "brand": "NTK",
+    "price": 74.99,
+    "inStock": true,
+    "location": [
+      "underbody"
+    ],
+    "compatibleCars": [
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Muffler",
+    "category": "exhaust",
+    "brand": "Walker",
+    "price": 69.99,
+    "inStock": true,
+    "location": [
+      "underbody"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Catalytic Converter",
+    "category": "exhaust",
+    "brand": "MagnaFlow",
+    "price": 329.99,
+    "inStock": false,
+    "location": [
+      "underbody"
+    ],
+    "compatibleCars": [
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Radiator",
+    "category": "cooling",
+    "brand": "Denso",
+    "price": 149.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Thermostat",
+    "category": "cooling",
+    "brand": "Stant",
+    "price": 18.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Timing Belt Kit with Water Pump",
+    "category": "engine",
+    "brand": "Aisin",
+    "price": 169.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Accessory Drive Belt",
+    "category": "engine",
+    "brand": "Gates",
+    "price": 24.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Valve Cover Gasket",
+    "category": "engine",
+    "brand": "Fel-Pro",
+    "price": 21.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Engine Mount (Front)",
+    "category": "engine",
+    "brand": "Anchor",
+    "price": 39.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Engine Oil 5W-20 (5 L)",
+    "category": "fluids",
+    "brand": "Mobil 1",
+    "price": 42.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "ATF DW-1 (1 qt)",
+    "category": "fluids",
+    "brand": "Honda OEM",
+    "price": 12.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Type 2 Coolant (1 gal)",
+    "category": "fluids",
+    "brand": "Honda OEM",
+    "price": 29.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "DOT 3 Brake Fluid",
+    "category": "fluids",
+    "brand": "Honda OEM",
+    "price": 9.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2001-2005 Honda Civic 1.7L",
+      "2005 Honda Civic DX 4D Sedan 1.7L Automatic"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Engine Air Filter",
+    "category": "filters",
+    "brand": "Fram",
+    "price": 21.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2006-2011 Honda Civic 1.8L"
+    ],
+    "partNumber": "CA10755"
+  },
+  {
+    "id": 58,
+    "name": "Spark Plug (each)",
+    "category": "ignition",
+    "brand": "NGK",
+    "price": 9.99,
+    "inStock": true,
+    "location": [
+      "hood"
+    ],
+    "compatibleCars": [
+      "2002-2005 Honda Civic Si 2.0L"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Front Brake Pads",
+    "category": "brakes",
+    "brand": "Akebono",
+    "price": 59.99,
+    "inStock": true,
+    "location": [
+      "leftFrontTire",
+      "rightFrontTire"
+    ],
+    "compatibleCars": [
+      "2006-2011 Honda Civic 1.8L"
+    ]
+  }
+]
