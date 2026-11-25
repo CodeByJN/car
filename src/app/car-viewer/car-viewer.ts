@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ElementRef, afterNextRender, viewChild } from '@angular/core';
 
 @Component({
   imports: [],
@@ -6,4 +6,12 @@ import { Component } from '@angular/core';
   styleUrl: './car-viewer.css',
   templateUrl: './car-viewer.html',
 })
-export class CarViewer {}
+export class CarViewer {
+  canvas = viewChild.required<ElementRef<HTMLCanvasElement>>('canvas');
+
+  constructor() {
+    afterNextRender(() => {
+      console.log(this.canvas().nativeElement);
+    });
+  } 
+}

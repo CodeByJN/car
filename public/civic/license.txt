@@ -1,0 +1,11 @@
+Model Information:
+* title:	Civic Honda 2004
+* source:	https://sketchfab.com/3d-models/civic-honda-2004-b9bf9858ec8e44fdae11c415dd59ae35
+* author:	Blender Boy (https://sketchfab.com/Blender_Boy1)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Civic Honda 2004" (https://sketchfab.com/3d-models/civic-honda-2004-b9bf9858ec8e44fdae11c415dd59ae35) by Blender Boy (https://sketchfab.com/Blender_Boy1) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
