@@ -1,0 +1,9 @@
+Todo List:
+
+- 3D model of car in the center
+- Three.js scene set up
+- Part Selection
+- Part List
+- Part Search
+
+
