@@ -8,6 +8,7 @@ import {Part} from '../models/parts';
   templateUrl: './parts-list.html',
 })
 
+//Populating the list of parts
 export class PartsList {
   parts = signal<Part[]>([
     {

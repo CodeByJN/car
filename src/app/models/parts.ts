@@ -1,4 +1,5 @@
 
+//Template for every part object we create
 export interface Part{
     id: number;
     name: string;
@@ -8,8 +9,9 @@ export interface Part{
     inStock: boolean;
     location: CarLocation[];
     compatibleCars: string[];
+    partNumber?: string;
 }
-
+//Camera angles
 export type CarLocation = 
 'leftRearTire'|
 'rightRearTire'|
